@@ -1,3 +1,5 @@
+헤놀로지에서 cpu 정보 제대로 나오게 하는 패치
+
 # Howto Run
 
 1. Download attached file on your PC (ch_cpuinfo.tar)
